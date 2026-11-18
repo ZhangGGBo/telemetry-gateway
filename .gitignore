@@ -1,0 +1,11 @@
+build/
+build-*/
+third_party/
+*.db
+*.db-shm
+*.db-wal
+*.exe
+*.o
+*.log
+.env*
+.vscode/
